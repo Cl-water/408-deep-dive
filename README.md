@@ -22,3 +22,4 @@
 - Mermaid：流程图、资源关系图、逻辑结构图；
 - LaTeX：公式与逻辑表达；
 - Git / GitHub：版本管理与公开展示。
+- [从死锁四大必要条件看操作系统概念的形成逻辑](./docs/os/deadlock-coffman-conditions.md)
